@@ -1,6 +1,6 @@
 1.分表/分区
 http://www.360doc.com/content/14/0508/16/11965070_375841927.shtml
 
-$ git config --global user.name "Your Name5"
+$ git config --global user.name "Your Name56"
 $ git config --global user.email "email@example.com"
 l
