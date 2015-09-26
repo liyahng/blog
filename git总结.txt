@@ -1,2 +1,4 @@
 一、恢复文件
-1、没有add之前怎么回复已经修改的文件
+1、没有add之前怎么回复已经修改的文件 git checkout 文件名
+2、add之后，git reset head  
+3、commit 之后，git reset --hard  版本号 git reflog 获取
