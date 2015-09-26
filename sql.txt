@@ -4,23 +4,15 @@ http://www.360doc.com/content/14/0508/16/11965070_375841927.shtml
 $ git config --global user.name "Your Name5677"
 $ git config --global user.email "555@example.com"
 
-<<<<<<< HEAD
-add 提交文件之后 �?
-git checkout  文件�?即可恢复 
-git reset head 把add提交到暂存区的文件还原到没有add之前
 
-一、恢复文�?
-1、没有add之前怎么回复已经修改的文�?
-3�?4
-=======
+
 add 提交文件之后 用 
 git checkout  文件名 即可恢复 
 git reset head 把add提交到暂存区的文件还原到没有add之前
 
 一、恢复文件
 1、没有add之前怎么回复已经修改的文件
-3、44
->>>>>>> dev
+
 l234324324324
 34324324324
 34324324324324v
