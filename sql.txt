@@ -5,7 +5,8 @@ $ git config --global user.name "Your Name5677"
 $ git config --global user.email "555@example.com"
 
 
-
+分支master
+分支master
 add 提交文件之后 用 
 git checkout  文件名 即可恢复 
 git reset head 把add提交到暂存区的文件还原到没有add之前
